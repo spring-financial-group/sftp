@@ -20,3 +20,7 @@ ChrootDirectory %h
 
 # Enable this for more logs
 #LogLevel VERBOSE
+
+
+# Use both RSA and password for extra security
+AuthenticationMethods publickey,password
