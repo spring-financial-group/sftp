@@ -23,4 +23,4 @@ ChrootDirectory %h
 
 
 # Use both RSA and password for extra security
-AuthenticationMethods publickey,password
+AuthenticationMethods publickey
